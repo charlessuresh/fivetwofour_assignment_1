@@ -24,7 +24,7 @@ $ pip install -i https://test.pypi.org/simple/ fivetwofour_assignment_1
 
 ## Documentation
 
-The official documentation is hosted on Read the Docs: https://fivetwofour_assignment_1.readthedocs.io/en/latest/
+The official documentation is hosted on Read the Docs: https://fivetwofour-assignment-1-cs.readthedocs.io/en/latest/
 
 ## Contributors
 
